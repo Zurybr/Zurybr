@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Python | MySQL
 
-- 🌐 &nbsp; HTML | CSS | Django | Flask
+- 🌐 &nbsp; HTML | CSS | Django | JavaScript
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  JavaScript | Java | Google Cloud
+- 🔧 &nbsp;  Flask | Java | Google Cloud
 
 <hr>
 
