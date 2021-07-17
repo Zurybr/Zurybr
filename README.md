@@ -76,7 +76,9 @@
 <a href="https://www.linkedin.com/in/brandomled//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brandom%20Ledesma-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:brandom.ledesma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-brandom.ledesma@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+<br/> <a href="https://zurybr.github.io/mainpage/"><img alt="myweb" src="https://img.shields.io/badge/my%20web-for%20all%20my%20love-blue"></a>
+  
+  
 </p>
 
 
