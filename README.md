@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Student of Nanotechnology.
+- 🎓 &nbsp; Nanotechnology Engineer .
 
-- 🌱 &nbsp; Learning about Cloud Tech, Data Science and Web Development.
+- 🌱 &nbsp; Learning about Cloud Tech, Machine Learning and Web Development.
 
 - ✍️ &nbsp; Pursuing Machine Learning as hobbies/side hustles.
 
@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | MySQL
+- 💻 &nbsp; Python | C# | JavaScript
 
-- 🌐 &nbsp; HTML | CSS | Django | JavaScript
+- 🌐 &nbsp; HTML | CSS | Django | Flask | .Net | .Net core | React 
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Flask | Java | Google Cloud
+- 🔧 &nbsp;  Svelte | Deep learning | Machine Learning | express js
 
 <hr>
 
