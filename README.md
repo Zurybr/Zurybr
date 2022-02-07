@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Svelte | Deep learning | Machine Learning | express js
+- 🔧 &nbsp;  Svelte | Deep learning | Machine Learning | NestJs
 
 <hr>
 
