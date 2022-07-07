@@ -10,9 +10,7 @@
 
 - 🎓 &nbsp; Nanotechnology Engineer .
 
-- 🌱 &nbsp; Learning about Cloud Tech, Machine Learning and Web Development.
-
-- ✍️ &nbsp; Pursuing Machine Learning as hobbies/side hustles.
+- 🌱 &nbsp; Learning everyday about Cloud Tech, Machine Learning and Web Development.
 
 
 
@@ -20,9 +18,11 @@
 
 
 
-- 💻 &nbsp; Python | C# | JavaScript
+- 💻 &nbsp; Python | C# | JavaScript | TypeScript
 
-- 🌐 &nbsp; HTML | CSS | Django | Flask | .Net | .Net core | React 
+- 📐 &nbsp; Django | Flask | FastAPI | .Net core | .Net Framework | React | Nest.js  |  Express
+
+- 🌐  &nbsp; Html | Css | Sql | Bash | Git
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Svelte | Deep learning | Machine Learning | NestJs
+- 🔧 &nbsp;  Data Science | Blazor | Sass/less | Docker 
 
 <hr>
 
