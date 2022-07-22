@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Sonftware & Nanotechnology Engineer .
+- 🎓 &nbsp; Fullstack developer & Nanotechnology Engineer .
 
 - 🌱 &nbsp; Learning everyday about Cloud Tech, Machine Learning and Web Development.
 
